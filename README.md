@@ -1,8 +1,9 @@
 # Periodic_Table
 Technologies used: HTML,CSS & json
 
+A graphical user interface (GUI) is a visual interface that allows users to interact with electronic devices through graphical elements such as icons, buttons, and menus.
 
-
+![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/lively_p.gif)
 
 ## Features
 - Periodic Table
@@ -10,7 +11,7 @@ Technologies used: HTML,CSS & json
 - HTML,CSS and json
 - Customizable
 
-![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/lively_p.gif)
+
 
 ## Demo
 https://narendranathpanda.github.io/Periodic_Table.github.io/
