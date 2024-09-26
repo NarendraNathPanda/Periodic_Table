@@ -1,5 +1,5 @@
 # Periodic_Table
-Technologies used: HTML,CSS,json
+Technologies used: HTML,CSS & json
 
 
 ![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view1.png)
@@ -14,8 +14,10 @@ Technologies used: HTML,CSS,json
 
 ## Demo
 https://narendranathpanda.github.io/Periodic_Table.github.io/
+
 View: 1
 ![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view2.png)
+
 View: 2
 ![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view3.png)
 
