@@ -2,7 +2,7 @@
 Technologies used: HTML,CSS,json
 
 
-![logo]()
+![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view1.png)
 
 ## Features
 - Periodic Table
@@ -11,6 +11,8 @@ Technologies used: HTML,CSS,json
 - Customizable
 
 ## Demo
+![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view2.png)
+![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view3.png)
 
 
 ## Feedback
