@@ -13,6 +13,7 @@ Technologies used: HTML,CSS,json
 ![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/lively_p.gif)
 
 ## Demo
+https://narendranathpanda.github.io/Periodic_Table.github.io/
 View: 1
 ![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view2.png)
 View: 2
