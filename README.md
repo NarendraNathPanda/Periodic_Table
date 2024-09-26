@@ -10,6 +10,8 @@ Technologies used: HTML,CSS,json
 - HTML,CSS and json
 - Customizable
 
+![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/lively_p.gif)
+
 ## Demo
 ![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view2.png)
 ![logo](https://github.com/NarendraNathPanda/Periodic_Table.github.io/blob/main/image/view3.png)
